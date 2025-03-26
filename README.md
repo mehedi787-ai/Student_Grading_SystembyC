@@ -37,4 +37,4 @@ Marks (Out of 100)	Grade	Grade Point
 # Technologies Used
 1. C Programming Language
 2. Standard I/O functions for input and output handling
-                    THANK YOU 
+                    THANK YOU  
