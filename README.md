@@ -1,5 +1,5 @@
 # Student_Grading_SystembyC
-Implementing the student grading system step by step in c programming.
+# Implementing the student grading system step by step in c programming.
 # Project Overview:
 This is a simple Grading System implemented in C that allows teachers to input student details, record their attendance, and calculate their grades based on subject-wise marks. The program efficiently manages multiple students and subjects while providing clear output of total marks, average scores, and final grades.
 
@@ -34,7 +34,7 @@ Marks (Out of 100)	Grade	Grade Point
 ✅ Grade (Based on Grading Policy)
 5.Displays the final result for each student.
 
-🛠️ Technologies Used
+# Technologies Used
 1. C Programming Language
 2. Standard I/O functions for input and output handling
                     THANK YOU 
